@@ -86,4 +86,8 @@ If you don't see one in your country, state/region or city,
 search for it in Facebook events or organise your own.
 We will never forget your help!
 
+#### 3️⃣ What else?
+
+Visit [HelpUkraineWin.org](https://helpukrainewin.org) and see what is possible.
+
 **Thank you!**

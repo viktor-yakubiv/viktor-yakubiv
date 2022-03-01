@@ -79,10 +79,7 @@ You can also donate to [charity supporting Ukrainian army](https://savelife.in.u
 #### 2️⃣ Protest
 
 Organise or attend a protest against Russian invastion in Ukraine.
-Below are a few clear statements to address:
-
-1. Provide a clear airpace over Ukraine
-2. Cut Russia off SWIFT
+The statement you can address is **clear airspace over Ukraine, shaltering the sky**.
 
 The list of protests is avaliable at [stopputin.net](https://www.stopputin.net).
 If you don't see one in your country, state/region or city,

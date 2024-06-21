@@ -72,23 +72,18 @@ I list a few ones that I wrote for my needs
 and might be useful for you:
 
 <!-- -   hast-util-slots -->
-
 -   [hast-util-merge][] —
     a utility for merging documents or fragments
     in form of [hypertext abstract syntax trees][hast] (HASTs)
-
 -   [rehype-lodash-template][] —
     plugin to replace string values in HTML
     utilizing `lodash.template` function
-
 -   [rehype-postcss][] —
     plugin to process `<style>` elements with PostCSS
-
-<!-- -   rehype-web-components -->
-
 -   [rehype-css-modules][] —
     plugin for substituting class names
     with their scoped equivalents (essentially applying CSS modules)
+<!-- -   rehype-web-components -->
 
 [gfm-alerts]: https://github.com/orgs/community/discussions/16925
 [unifiedjs]: https://github.com/unifiedjs
@@ -105,11 +100,9 @@ and might be useful for you:
 Going against common trend in scoped styling
 and heavy usage of utility-based CSS,
 I develop libraries that focus on:
-
--   embracing semantic and accessible markup;
--   using plain language for definitions;
--   applying modern best practices and future technologies.
-
+embracing semantic and accessible markup;
+using plain language for definitions;
+and applying modern best practices and future technologies.
 The goal is to build a solid styling foundation for the Web.
 My current work listed below:
 
@@ -118,7 +111,6 @@ My current work listed below:
     in colours, typography and layout,
     embracing semantic and accessible markup,
     putting it over class-based styling
-
 -   [every-color][] —
     an experimental CSS-library enabling users
     apply colours to text and blocks using plain human language

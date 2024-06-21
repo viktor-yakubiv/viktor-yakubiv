@@ -35,6 +35,9 @@ at [Internet Olympiad in Information Technologies][ioitua],
 leading front-end engineer and a product designer
 at [CORE][oacore].
 
+[kottans]: https://github.com/Kottans
+[ioitua]: https://github.com/ioitua
+[oacore]: https://github.com/oacore
 
 Highlighted work
 ----------------------------------------------------------------
